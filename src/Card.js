@@ -1,4 +1,5 @@
 import React from 'react';
+import SearchBox from './SearchBox';
 
 const Card = (props) => {
     return (
@@ -13,3 +14,6 @@ const Card = (props) => {
 }
 
 export default Card;
+
+
+// App --> 1. SearchBox
